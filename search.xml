@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>js01</title>
+    <url>/js/js01/</url>
+    <content><![CDATA[<p>寫了很多 Mongoose 之後我才想到我似乎少寫了 MongoDB 中的 Update Operators 的部分，而 Update Operators 這一部分其實也很重要，所以就來補一篇 Update Operators 的 MongoDB 章節。<br>111111111111122222222222222</p>
+]]></content>
+  </entry>
+</search>
